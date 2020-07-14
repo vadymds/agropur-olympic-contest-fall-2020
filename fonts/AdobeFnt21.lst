@@ -1,0 +1,153 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSerif-Regular
+FamilyName:PT Serif
+StyleName:Regular
+MenuName:PT Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:PT Serif
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/PTSerif-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:311436
+FileModTime:588196872
+NameArray:0,Mac,18,PT Serif
+NameArray:0,Mac,4,PT Serif
+NameArray:0,Win,1,PT Serif
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Colaborate-Regular
+FamilyName:Colaborate-Regular
+StyleName:Regular
+MenuName:Colaborate-Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Colaborate-Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/Colaborate-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24388
+FileModTime:588196868
+NameArray:0,Mac,4,Colaborate-Regular
+NameArray:0,Win,1,Colaborate-Regular
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Colaborate-Thin
+FamilyName:Colaborate-Thin
+StyleName:Regular
+MenuName:Colaborate-Thin
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Colaborate-Thin
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/Colaborate-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:24032
+FileModTime:588196868
+NameArray:0,Mac,4,Colaborate-Thin
+NameArray:0,Win,1,Colaborate-Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/Avenir-Book
+FileModTime:588196869
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/AveniMed
+FileModTime:588196869
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:588196868
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/AdobeFnt21.lst
+FileLength:5047
+FileModTime:588614895
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/Avenir-Medium
+FileModTime:588196868
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/AveniHea
+FileModTime:588196868
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/AveniBoo
+FileModTime:588196868
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Disques partagés/CR-01 Clients/Agropur/AGR069_Finest_cheeses_contest/04_Creative/01_Original_Assets/AGR_AFF_Concours spécifique Agropur Signature_AirCanada/Artwork/Document fonts/Avenir-Heavy
+FileModTime:588196867
+%EndFont
+

@@ -1,0 +1,254 @@
+<form
+  id="contestForm"
+  name="olympicContestForm"
+  class="validate"
+  autocomplete="off"
+  action="/"
+  method="POST"
+  data-num-upc-fields-visible="1"
+  data-netlify-recaptcha="true"
+  data-netlify="true"
+>
+  
+  <fieldset class="form-group col-12 p-md-0">
+    <input
+      type="text"
+      id="fullName"
+      name="fullName"
+      class="form-control"
+      required
+    >
+    <label class="form-control-placeholder" for="fullName"></label>
+  </fieldset>
+  
+
+  
+  <fieldset class="form-group col-12 p-md-0">
+    <input
+      type="email"
+      id="emailAddress"
+      name="emailAddress"
+      class="form-control email"
+      required
+    >
+    <label class="form-control-placeholder" for="emailAddress"></label>
+  </fieldset>
+  
+
+  
+  <fieldset class="form-group col-12 p-md-0">
+    <input
+      type="text"
+      id="phoneNumber"
+      name="phoneNumber"
+      class="form-control"
+      pattern="^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$"
+      title=""
+      required
+    >
+    <label class="form-control-placeholder" for="phoneNumber"></label>
+  </fieldset>
+  
+
+  
+  <fieldset class="form-group col-12 p-md-0">
+    <select
+      id="provinceName"
+      name="province"
+      class="form-control province-select"
+      required
+    >
+      <option selected="selected" disabled="disabled" value="">
+        
+      </option>
+      <option value="AB"></option>
+      <option value="BC"></option>
+      <option value="MB"></option>
+      <option value="NB"></option>
+      <option value="NL"></option>
+      <option value="NS"></option>
+      <option value="ON"></option>
+      <option value="PE"></option>
+      <option value="SK"></option>
+      <option value="NT"></option>
+      <option value="NU"></option>
+      <option value="YT"></option>
+    </select>
+  </fieldset>
+  
+
+  
+  <fieldset class="form-group col-12 p-md-0">
+    <input
+      type="text"
+      id="upcCode0"
+      name="upcCode0"
+      class="form-control upc-code-input"
+      required
+      aria-describedby="upcDescription"
+    >
+    <label
+      class="form-control-placeholder"
+      for="upcCode0"
+    ></label>
+    <div id="upcDescription" class="sr-only"></div>
+  </fieldset>
+  
+
+  
+  <div
+    id="additionalUpcContainer"
+    class="form-group col-12 p-md-0"
+  >
+    <fieldset
+      class="form-group col-12 p-x-0 mt4 hidden-upc"
+      id="hiddenUPC1"
+    >
+      <input
+        type="text"
+        id="upcCode1"
+        name="upcCode1"
+        class="form-control upc-code-input"
+        aria-describedby="upcDescription"
+      >
+      <label
+        class="form-control-placeholder"
+        for="upcCode1"
+      ></label>
+    </fieldset>
+    <fieldset
+      class="form-group col-12 p-x-0 mt4 hidden-upc"
+      id="hiddenUPC2"
+    >
+      <input
+        type="text"
+        id="upcCode2"
+        name="upcCode2"
+        class="form-control upc-code-input"
+        aria-describedby="upcDescription"
+      >
+      <label
+        class="form-control-placeholder"
+        for="upcCode2"
+      ></label>
+    </fieldset>
+    <fieldset
+      class="form-group col-12 p-x-0 mt4 hidden-upc"
+      id="hiddenUPC3"
+    >
+      <input
+        type="text"
+        id="upcCode3"
+        name="upcCode3"
+        class="form-control upc-code-input"
+        aria-describedby="upcDescription"
+      >
+      <label
+        class="form-control-placeholder"
+        for="upcCode3"
+      ></label>
+    </fieldset>
+  </div>
+  <fieldset
+    class="form-group col-12 p-md-0"
+    id="addUpcCodeContainer"
+  >
+    <button
+      type="button"
+      id="addUpcCode"
+      class="btn agropur-btn add-upc-code-btn"
+    >
+      <span class="label"></span>
+      <span class="plus-icon">+</span>
+    </button>
+  </fieldset>
+  
+
+  
+  <div class="form-group col-12 p-md-0 additional-help">
+    <div
+      id="upcCodeHelp"
+      class="no-purchase-necessary"
+    >
+      
+      <a href=""></a>
+    </div>
+    <div
+      tabindex="0"
+      class="help-message"
+      data-toggle="tooltip"
+      data-placement="bottom"
+      title=" <br><div class='text-center pt-3'><img src='../img/upc.png' /></span> "
+    ></div>
+  </div>
+  
+
+  
+  <div class="captcha-container">
+    <div
+      id="gRecaptcha"
+      class="g-recaptcha"
+      data-sitekey="6Lf3IbAUAAAAAP-q4TpZBT5dZRCLkTZSFWK0sGec"
+      data-theme="dark"
+    ></div>
+    <div class="captcha-error error-message">
+      
+    </div>
+  </div>
+  
+
+  
+  <fieldset class="check-container col-12 px-md-0">
+    
+    <div class="form-check">
+      <input
+        type="checkbox"
+        id="subscribeCheck"
+        name="subscribeCheck"
+        value="true"
+        class="form-check-input"
+      />
+      <label class="form-check-label" for="subscribeCheck">
+        
+      </label>
+    </div>
+    
+
+    
+    <div class="form-check">
+      <input
+        type="checkbox"
+        id="rulesCheck"
+        name="rulesCheck"
+        value="true"
+        class="form-check-input"
+        required
+      />
+      <label class="form-check-label" for="rulesCheck">
+        
+      </label>
+    </div>
+    
+  </fieldset>
+  
+
+  
+  <input
+    class="hidden"
+    type="text"
+    id="language"
+    name="language"
+    value=""
+  />
+  
+
+  
+  <div class="form-group col-12 p-md-0 submit-entry-container">
+    <button
+      type="submit"
+      id="submitEntry"
+      class="btn agropur-btn"
+    ></button>
+  </div>
+  
+</form>
